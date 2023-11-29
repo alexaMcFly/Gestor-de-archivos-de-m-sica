@@ -1,2 +1,7 @@
-# Gestor-de-archivos-de-m-sica
-Este proyecto gestiona datos de archivos de canciones e implementa funciones eficientes de búsqueda por filtros e inserción de datos, además del ordenamiento con métodos adecuados en la presentación de los datos. En este avance se implementa la parte de los métodos de ordenamiento en el proyecto.
+# Gestor-de-archivos-de-música
+Este proyecto gestiona datos de archivos de canciones e implementa funciones eficientes de búsqueda por filtros, además del ordenamiento con métodos adecuados en la presentación de los datos. El proyecto se encuentra en la carpeta llamada ProyectoIntegrador.
+
+# Problemas aplicando algoritmos y estructuraa de datos
+
+
+
