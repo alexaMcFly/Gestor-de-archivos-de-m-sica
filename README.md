@@ -3,14 +3,16 @@ Este proyecto gestiona datos de archivos de canciones e implementa funciones efi
 
 # Problemas aplicando algoritmos y estructuraa de datos
 
-**Problema Algoritmo de ordenamiento** 
+**Problema Algoritmo de ordenamiento** <br>
 Submission: https://leetcode.com/submissions/detail/1109408677/
-Video: https://drive.google.com/file/d/1HRMFikuc9tCN5FzUKKoOse-6XxhHk6_h/view?usp=sharing
+Video: https://youtu.be/9-zrfBvfuOw
 
-**Problema Estructura Lineal** 
+**Problema Estructura Lineal** <br>
 Submission: [https://leetcode.com/submissions/detail/1109408677/](https://leetcode.com/submissions/detail/1109688240/)
-Video: [https://drive.google.com/file/d/1HRMFikuc9tCN5FzUKKoOse-6XxhHk6_h/view?usp=sharing](https://drive.google.com/file/d/1Ln0w6o994JekmU8_8k9P180R0C7wsiYQ/view?usp=sharing)
+Video: https://youtu.be/2R7KTt9Tv04
 
-
-
+**Problema Estructura Lineal** <br>
+Submission: **Problema Estructura Lineal** <br>
+Submission: https://leetcode.com/submissions/detail/1109826754/
+Video: https://youtu.be/ODAAHPm0Ck4
 
