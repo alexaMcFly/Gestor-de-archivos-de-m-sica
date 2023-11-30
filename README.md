@@ -9,7 +9,7 @@ Video: https://drive.google.com/file/d/1HRMFikuc9tCN5FzUKKoOse-6XxhHk6_h/view?us
 
 **Problema Estructura Lineal** 
 Submission: [https://leetcode.com/submissions/detail/1109408677/](https://leetcode.com/submissions/detail/1109688240/)
-Video: [https://drive.google.com/file/d/1HRMFikuc9tCN5FzUKKoOse-6XxhHk6_h/view?usp=sharing](https://drive.google.com/file/d/1Ln0w6o994JekmU8_8k9P180R0C7wsiYQ/view?usp=sharing)https://drive.google.com/file/d/1Ln0w6o994JekmU8_8k9P180R0C7wsiYQ/view?usp=sharing
+Video: [https://drive.google.com/file/d/1HRMFikuc9tCN5FzUKKoOse-6XxhHk6_h/view?usp=sharing](https://drive.google.com/file/d/1Ln0w6o994JekmU8_8k9P180R0C7wsiYQ/view?usp=sharing)
 
 
 
