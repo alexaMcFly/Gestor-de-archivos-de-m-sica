@@ -11,8 +11,7 @@ Video: https://youtu.be/9-zrfBvfuOw
 Submission: [https://leetcode.com/submissions/detail/1109408677/](https://leetcode.com/submissions/detail/1109688240/)
 Video: https://youtu.be/4TeSWui3nHM
 
-**Problema Estructura Lineal** <br>
-Submission: **Problema Estructura Lineal** <br>
+**Problema Estructura no Lineal** <br>
 Submission: https://leetcode.com/submissions/detail/1109826754/
 Video: https://youtu.be/ODAAHPm0Ck4
 
